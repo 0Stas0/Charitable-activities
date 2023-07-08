@@ -1,0 +1,152 @@
+
+.header{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.f1{
+    width: 33%;
+    height: 100%;
+}
+.second{
+    display: flex;
+    justify-content: space-around;
+}
+.e-mail{
+    width: 30%;
+    height: 100%;
+    border: 1px solid rgba(250, 128, 114, 0);
+}
+.mailer{
+    padding: 10px 10px;
+    background-color: rgba(0, 255, 255, 0);
+    text-decoration: none;
+    display: inline-block;
+}
+.phone_number{
+    width: 30%;
+    height: 100%; 
+    border: 1px solid rgba(250, 128, 114, 0);
+}
+.navbar{
+    height: 7vh;
+    width: 100%;
+    background-color: rgb(105, 105, 105);
+}
+.button_container{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn{
+    height: 28px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button_container_filler{
+    width: 60%;
+}
+.main{
+    height: 79vh;
+    width: 100%;
+    background: url(https://greenpost.ua/upload/news/2020/07/28/285f1fcd46dedc1-africa-1994846-1920_crop_965x0.jpg?v=1595924441);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+} 
+.giv-2{
+    width: 100%;
+    height: 100vh;
+    background: url(image5.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.giv-3{
+    width: 100%;
+    height: 100vh;
+    background: url(image6.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.navbar-1{
+    z-index: 2;
+    width: 100%;
+    height: 50%;
+    border:1px solid rgba(86, 11, 198, 0);
+}
+.navbar-2{
+    z-index: 2;
+    width: 100%;
+    height: 50%;
+    border:1px solid rgba(187, 0, 0, 0);
+}
+.babl1{
+    width: 100%;
+    height: 50%;
+    border:1px solid rgba(9, 187, 0, 0);
+    justify-content: center;
+}
+.babl2{
+    width: 100%;
+    height: 50%;
+    border:1px solid rgba(169, 7, 178, 0);
+}
+.tours{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: rgb(1, 5, 9);
+    margin-top: 80px;
+    font-size:25px;
+    color:#000000!important;
+    text-shadow: 1px 1px 1px #ffffff;
+    padding: 12px 15px;
+    text-decoration: none;
+    background-color: rgba(246, 246, 246, 0.327);
+    border-radius: 6px;
+    height: 40%;
+    width: 60%;
+    border: solid rgb(240, 240, 240);
+    margin-left:280px;
+}
+.tours-2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: rgb(0, 0, 0);
+    margin-top: 25px;
+    font-size:25px;
+    color:#000000!important;
+    text-shadow: 1px 1px 1px #ffffff;
+    padding: 12px 15px;
+    text-decoration: none;
+    background-color: rgba(246, 246, 246, 0.327);
+    color: white;
+    height: 30%;
+    width: 70%;
+    border: solid rgb(240, 240, 240);
+    margin-left:200px;
+    border-radius: 6px;
+}
+.tours-3{
+    border-radius: 40px;
+    height: 70px;
+    width: 63%;
+    margin-left:280px;
+}
+.navbar-3{
+    height: 20%;
+    width: 100%;
+    border: solid rgba(240, 240, 240, 0);
+
+}
+.babl4{
+    width: 60%;
+    height: 30%;
+    border:1px solid rgba(169, 7, 178, 0);
+}
